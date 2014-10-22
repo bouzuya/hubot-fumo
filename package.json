@@ -1,7 +1,7 @@
 {
   "name": "hubot-fumo",
-  "version": "0.0.0",
-  "description": "A Hubot script that DESCRIPTION",
+  "version": "1.0.0",
+  "description": "A Hubot script that send ω",
   "main": "index.js",
   "scripts": {
     "build": "gulp",
